@@ -1,2 +1,2 @@
-# The-Sparks-Foundation---GRIP
+Prediction using Supervised ML
 GRIP
